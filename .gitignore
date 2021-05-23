@@ -1,0 +1,29 @@
+node_modules
+dist
+tmp
+*.log
+.vscode
+.idea
+coverage
+.DS_Store
+.history
+.npmrc
+
+# Parcel related files
+.cache/
+
+# Temporary vim files
+*.swo
+*.swp
+
+# Storybook
+storybook/dist
+
+.rpt2_cache/
+secrets.json
+tsconfig.tsbuildinfo
+
+aggregate_*
+folders.to.deploy
+
+docs
